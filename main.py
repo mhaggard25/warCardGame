@@ -15,12 +15,12 @@ deck = list(itertools.product(cardValues, cardSuits))
 random.shuffle(deck)
 
 # Debug
-for value, suit in deck:
-    print('the %s of %s' % (value, suit))
+#for value, suit in deck:
+#    print('the %s of %s' % (value, suit))
 
 # Making sure that I can access
-print("Here is the second card in the deck" , deck[1])
-print("Here is the Value of the second card in the deck", deck[1][0])
+#print("Here is the second card in the deck" , deck[1])
+#print("Here is the Value of the second card in the deck", deck[1][0])
 
 # make player hands
 player1Hand = []
