@@ -2,4 +2,4 @@
 This is a simple python implementation of the card game 'War'
 
 Screenshots of progress
-![gameplay area](image.png)
+![Alt text](Screenshot_20231213_231300.png)
